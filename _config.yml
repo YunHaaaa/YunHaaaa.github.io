@@ -23,9 +23,19 @@ email: qlxqlrt2012@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Development Blog
 baseurl: "/YunHaaaa" # the subpath of your site, e.g. /blog
-url: "http://YunHaaaaDevlog.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://yunhaaaa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+
+authors:
+  sal:
+    name: YunHaaaa
+    display_name: HaEun
+    gravatar:
+    email: qlxqlrt2012@gmail.com
+    web: https://yunhaaaa.github.io
+    
+
 
 # Build settings
 theme: minima
