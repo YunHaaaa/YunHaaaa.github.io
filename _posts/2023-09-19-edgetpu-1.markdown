@@ -1,6 +1,6 @@
 ---
 title: "[Edge TPU 모델 설계 ]  #1 Google Coral 공식문서"
-layout: post
+layout: single
 date: '2023-09-19 16:09:35 +0900'
 categories: deep learning
 ---
